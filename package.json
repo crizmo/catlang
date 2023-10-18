@@ -1,0 +1,22 @@
+{
+  "name": "catlang",
+  "version": "1.0.0",
+  "description": "A fun npm package that translates text into a fictional cat-like language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crizmo/catlang.git",
+    "homepage": "https://github.com/crizmo/catlang/#README.md"
+  },
+  "keywords": [
+    "cat",
+    "language",
+    "translator",
+    "meow"
+  ],
+  "author": "kurizu",
+  "license": "MIT"
+}
