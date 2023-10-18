@@ -1,12 +1,39 @@
 const meowords = {
+    // Basic
     hello: 'meow',
-    feeling: 'meowling',
-    good: 'meowd',
-    world: 'wurld',
     thanks: 'meowks',
-    what: 'meowt',
+    what: 'meeow?',
+    wait: 'meow!',
+    why: 'meooow',
+    bye: 'mew',
+
+    // Pronouns
+    good: 'me-ow',
+    world: 'wurld',
     your: 'meowur',
-    name: 'meowmeow',
+    name: 'meow-meow',
+
+    // Nouns
+    // cat: 'me',
+    fish: 'mish',
+    ball: 'meooo',
+    mouse: 'meowse',
+
+    // Verbs
+    sleep: 'me-me',
+    play: 'mmmrrr',
+    purr: 'prrrrrr',
+
+    // Adjectives
+    happy: '!meow!',
+
+    // Prepositions
+    on: 'meown',
+    under: 'meownder',
+    in: 'meowside',
+    with: 'meowith',
+    without: 'meowout',
+
     // Add more words to the dictionary as needed
 };
 
